@@ -8,3 +8,5 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - Na maior parte da atividade nenhuma, só o link do page que demorou a aparecer
+## Erro
+- favicon.ico:1  Failed to load resource: the server responded with a status of 404 ()
